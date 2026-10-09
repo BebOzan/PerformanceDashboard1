@@ -1,0 +1,11 @@
+{
+  "title": "Quarterly Dashboard",
+  "description": "Interactive executive dashboard delivering real-time revenue insights, KPI tracking, and data editing for telecom leadership to drive informed decisions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
